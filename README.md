@@ -13,6 +13,7 @@ say hello
 	<br>
 	Email:<input type="text" name="Email">
 	<br>
+	Password:<input type="password" name="password">
 	<input type="submit" name="submit">
 	<input type="reset" name="reset">
 
