@@ -8,11 +8,13 @@ say hello
 	<title>First Code</title>
 </head>
 <body>
-<h1>Hello World!</h1>
-<p>How are you?</p>
-<p>i'm fine</p>
+<h3>Please Enter Your Username and Email</h3>
+	Username :<input type="text" name="Username">
+	<br>
+	Email:<input type="text" name="Email">
+	<br>
+	<input type="submit" name="submit">
+	<input type="reset" name="reset">
 
-<br>
-<button>Click Me</button>
 </body>
 </html>
