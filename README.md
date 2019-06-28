@@ -1,7 +1,6 @@
 # First_coding
 first coding to display
-say hello
-
+create a form
 <!DOCTYPE html>
 <html>
 <head>
