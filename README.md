@@ -15,6 +15,11 @@ create a form
 	Password:<input type="password" name="password">
 	<br>
 	<br>
+	Name:<input type="text" name="name">
+	<br>
+	Age:<input type="text" name="age">
+	<br>
+
 	<input type="submit" name="submit">
 	<input type="reset" name="reset">
 
